@@ -1,0 +1,22 @@
+{
+  "name": "hydra-auth",
+  "version": "1.0.0",
+  "description": "Wrapper for Passport Basic and LDAP auth that allows easy swapping between the two",
+  "main": "./lib/hydra-auth",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "passport",
+    "auth",
+    "ldap",
+    "express"
+  ],
+  "dependencies": {
+    "passport": "^0.2.1",
+    "passport-http": "^0.2.2",
+    "passport-ldap": "meryt/passport-ldap"
+  },
+  "author": "meryt",
+  "license": "MIT"
+}
