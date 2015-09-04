@@ -1,6 +1,6 @@
 {
   "name": "hydra-auth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrapper for Passport Basic and LDAP auth that allows easy swapping between the two",
   "main": "./lib/hydra-auth",
   "scripts": {
